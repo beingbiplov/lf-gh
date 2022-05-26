@@ -1,2 +1,4 @@
 Leap
 Frog
+Acer
+Notepad
